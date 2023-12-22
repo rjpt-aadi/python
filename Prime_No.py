@@ -1,4 +1,5 @@
 print("*********Aditya Kumar*********")
+
 # Get user input for the number to check
 num = int(input("What is your favorite number? "))
 prime = True
