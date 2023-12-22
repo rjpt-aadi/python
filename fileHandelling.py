@@ -6,4 +6,4 @@ for i in range (1,multi+1):
     with open ("table.txt","a") as f:
         f.write(str(f"{num} * {i} = {table}"))
         f.write('\n')
-f.close()
+f.close() 
