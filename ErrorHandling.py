@@ -3,4 +3,4 @@ b=int(input("Enter Number 2: "))
 try:
     print(a/b)
 except:
-    print("Infinite")
+    print("Number is not divisible 0")
