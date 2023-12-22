@@ -13,6 +13,7 @@ print("string to a list of words:", word_list)
 # d) Sort the list into reverse alphabetical order using the list methods.
 # You can use the sort() method with the reverse parameter set to True.
 word_list.sort()
+
 # Print out the sorted list.
 print("Sorted List:", word_list)
 word_list.sort(reverse=True)
